@@ -15,5 +15,5 @@ require 'pry'
   }
   
 def remove_strawberry(contacts)
-    contacts["Freddy Mercury"][favorite_ice_cream_flavors.to_sym] = "cookie dough", "mint chip"].to_i
+    contacts["Freddy Mercury"][favorite_ice_cream_flavors] = "cookie dough", "mint chip"]
 end
